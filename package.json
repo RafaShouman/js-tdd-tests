@@ -4,9 +4,10 @@
   "description": "Testes em TDD",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky install",
     "lint": "npx eslint src/*.js",
-    "test": "npx eslint src/*.js",
-    "prepare": "husky install"
+    "test": "npx eslint src/*.js"
+    
   },
   "repository": {
     "type": "git",
