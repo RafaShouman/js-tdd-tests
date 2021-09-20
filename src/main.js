@@ -1,6 +1,6 @@
 const a = 3;
 const b = 5;
-const d = b
+const d = 'aaa'
 const c = 'asdsadsadadcfztr';
 
 function sum() {
