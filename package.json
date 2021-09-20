@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint src/*.js",
-    "prepush": "npx eslint src/*.js",
     "test": "npx eslint src/*.js",
     "prepare": "husky install"
   },
