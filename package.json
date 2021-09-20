@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-tests",
+  "version": "1.0.0",
+  "description": "Testes em TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaShouman/js-tdd-tests.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Rafael Shouman <shoumanrafael@hotmail.com> (https://shouman.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaShouman/js-tdd-tests/issues"
+  },
+  "homepage": "https://github.com/RafaShouman/js-tdd-tests#readme"
+}
