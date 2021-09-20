@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint src/*.js",
-    "prepush": "npm run lint",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepush": "npx eslint src/*.js",
+    "test": "npx eslint src/*.js",
     "prepare": "husky install"
   },
   "repository": {
